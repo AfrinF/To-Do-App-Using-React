@@ -5,10 +5,15 @@ This project has been implemented using React JS. It implements only the fronten
 ## App Demo
 https://github.com/user-attachments/assets/3e726262-5f13-4b62-96a8-dc924c21318e
 
+## Pre-requisite
+Node JS must be installed in the device
+
+
 ## Commands to be executed in the terminal
 - npx create-react-app todolist
 - cd todolist
 - npm start
+
   
 ## Steps to creating the app
 - npx create-react-app todolist
